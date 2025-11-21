@@ -344,8 +344,8 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 📞 Contact
 
-- **GitHub**: https://github.com/yourusername
-- **Email**: your.email@example.com
+- **GitHub**: https://github.com/skcoding123
+- **Email**: sunilkumar.maharana36@gmail.com
 
 ## 🙏 Acknowledgments
 
