@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+langchain-astradb
+langchain-text-splitters
+langchain-core
+pypdf
+python-dotenv
+sentence-transformers
+langchain-community
+ollama
